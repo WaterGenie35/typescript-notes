@@ -39,6 +39,8 @@
 
 ## Notes
 
+See `handbook` directory for handbook notes.
+
 ### General
 
 - Strict superset of JavaScript (static type checking).
