@@ -17,10 +17,13 @@
 ### JavaScript
 - [Microsoft Developer Hub's Resources](https://developer.microsoft.com/en-gb/javascript/)
 - [MDN's Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+- [A JS Learning Roadmap](https://roadmap.sh/javascript)
 
 ### Tooling, Style Guides, and Best Practices
 - [ESLint](https://eslint.org/) for style checking,
-    [JEST](https://jestjs.io/) for testing
+    [Prettier](https://prettier.io/) for code formatter,
+    [JEST](https://jestjs.io/) for testing,
+    etc.
 - [JS Standard Style](https://www.npmjs.com/package/standard)
     - See also Google TS Style.
 - [Official TS Doc's Do's and Don'ts](https://www.typescriptlang.org/docs/handbook/declaration-files/do-s-and-don-ts.html)
@@ -38,7 +41,7 @@
 
 ### General
 
-- Strict superset of JavaScript (compile-time type checking).
+- Strict superset of JavaScript (static type checking).
 - Uses a structural type system!
     - Objects with the same shape are considered the same type.
     - Objects' shape can be a superset of the checked type and they will still pass.
